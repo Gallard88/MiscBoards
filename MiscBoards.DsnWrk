@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Breakout\USB_BreakOut.PrjPcb
+[Project2]
+ProjectPath=Regulator\Regulator.PrjPcb
+[Project3]
+ProjectPath=USB_Serial\USB_Serial.PrjPcb
+[Project4]
+ProjectPath=Boxes\Boxes.PrjPcb
