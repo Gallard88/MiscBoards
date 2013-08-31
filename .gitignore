@@ -1,0 +1,11 @@
+# Back up files.
+*.BAK
+*~
+
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbDoc.htm
+*.pcbdoc_viewstate
+*.PrjPcb.Zip
+*.Zip
+*Thumbs.db
