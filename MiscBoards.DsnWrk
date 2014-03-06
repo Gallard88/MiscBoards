@@ -8,3 +8,5 @@ ProjectPath=Regulator\Regulator.PrjPcb
 ProjectPath=USB_Serial\USB_Serial.PrjPcb
 [Project4]
 ProjectPath=Boxes\Boxes.PrjPcb
+[Project5]
+ProjectPath=Fused_485\Fused_485.PrjPcb
